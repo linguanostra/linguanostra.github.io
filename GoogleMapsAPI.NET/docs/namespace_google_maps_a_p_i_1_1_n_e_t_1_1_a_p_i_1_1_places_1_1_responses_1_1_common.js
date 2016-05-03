@@ -1,0 +1,4 @@
+var namespace_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_responses_1_1_common =
+[
+    [ "PlaceBaseSearchResponse", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_responses_1_1_common_1_1_place_base_search_response.html", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_responses_1_1_common_1_1_place_base_search_response" ]
+];

@@ -1,0 +1,5 @@
+var class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_distance_matrix_1_1_components_1_1_distance_matrix_row_element =
+[
+    [ "Distance", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_distance_matrix_1_1_components_1_1_distance_matrix_row_element.html#a79152f6456d0fd9e48bfc6ef04f15332", null ],
+    [ "Duration", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_distance_matrix_1_1_components_1_1_distance_matrix_row_element.html#a19efe1af97af79f6e1532b11431dd22c", null ]
+];

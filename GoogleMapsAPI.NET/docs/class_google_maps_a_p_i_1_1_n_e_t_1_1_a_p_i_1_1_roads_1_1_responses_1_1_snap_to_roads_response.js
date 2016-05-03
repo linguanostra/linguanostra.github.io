@@ -1,0 +1,4 @@
+var class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_roads_1_1_responses_1_1_snap_to_roads_response =
+[
+    [ "SnappedPoints", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_roads_1_1_responses_1_1_snap_to_roads_response.html#a025907abeb464d46ca12fd8869cbd010", null ]
+];

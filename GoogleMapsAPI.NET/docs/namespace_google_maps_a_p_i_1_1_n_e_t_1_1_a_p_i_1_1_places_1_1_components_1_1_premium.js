@@ -1,0 +1,4 @@
+var namespace_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_components_1_1_premium =
+[
+    [ "PlacePremiumAspectRating", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_components_1_1_premium_1_1_place_premium_aspect_rating.html", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_components_1_1_premium_1_1_place_premium_aspect_rating" ]
+];

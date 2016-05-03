@@ -1,0 +1,4 @@
+var namespace_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_geometry_1_1_types =
+[
+    [ "SphericalGeometry", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_geometry_1_1_types_1_1_spherical_geometry.html", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_geometry_1_1_types_1_1_spherical_geometry" ]
+];

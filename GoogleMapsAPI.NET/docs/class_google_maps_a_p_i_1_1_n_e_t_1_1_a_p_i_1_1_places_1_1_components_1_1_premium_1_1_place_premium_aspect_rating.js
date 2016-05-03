@@ -1,0 +1,5 @@
+var class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_components_1_1_premium_1_1_place_premium_aspect_rating =
+[
+    [ "Rating", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_components_1_1_premium_1_1_place_premium_aspect_rating.html#a521fb7b914a0d286663aa2e336b5c49d", null ],
+    [ "Type", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_places_1_1_components_1_1_premium_1_1_place_premium_aspect_rating.html#a2645df9929c4dfa573c8678bf88e73ef", null ]
+];

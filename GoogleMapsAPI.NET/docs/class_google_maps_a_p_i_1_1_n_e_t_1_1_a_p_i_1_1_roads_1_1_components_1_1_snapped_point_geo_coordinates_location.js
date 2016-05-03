@@ -1,0 +1,7 @@
+var class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_roads_1_1_components_1_1_snapped_point_geo_coordinates_location =
+[
+    [ "SnappedPointGeoCoordinatesLocation", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_roads_1_1_components_1_1_snapped_point_geo_coordinates_location.html#a97ba09185b44694aadc0a1cffa2e3140", null ],
+    [ "SnappedPointGeoCoordinatesLocation", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_roads_1_1_components_1_1_snapped_point_geo_coordinates_location.html#aa6d6e9316b314ccea1d52e6f7856e5d4", null ],
+    [ "Latitude", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_roads_1_1_components_1_1_snapped_point_geo_coordinates_location.html#a855a26aa21684b9092682954212655fb", null ],
+    [ "Longitude", "class_google_maps_a_p_i_1_1_n_e_t_1_1_a_p_i_1_1_roads_1_1_components_1_1_snapped_point_geo_coordinates_location.html#af75399c466b1d1473ca6f6d7b907f9bb", null ]
+];
